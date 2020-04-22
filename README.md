@@ -20,6 +20,9 @@ Ma arvan, et kogu antud ülesanne oli proovilepanev, kuid seda oli väga
 põnev teha. Pisut jäin ajahätta seoses sellega, et kõrvalt tuli väga 
 palju aega ka koolile pühendada. Kuid usun, et üldpilt on positiivne.
 
+Programmil esineb üks bug. Nimelt kui sisestada koordinaadid, siis programm annab sulle tõusu ja loojangu aja
+tunni ajase nihkega. See tuleneb sellest, et vastav liides ei arvesta kevadise kellakeeramisega.
+
 __________________________________________________________________________
 
 ÕPETUS
