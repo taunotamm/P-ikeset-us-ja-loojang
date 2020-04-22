@@ -2,7 +2,7 @@ Päikesetõusu ja -loojangu arvutamise kalkulaator
 
 Tööks kulunud aeg: ca 24h
 
-Jäin jänni kaartil koordinaatide määramisega.
+Jäin jänni kaardil koordinaatide määramisega.
 Nimelt leidsin mooduse, kuidas luua offline interaktiivne kaart, mis annab
 kaardile vajutades koordinaadid, kuid kahjuks on tegemist nö void tüübiga,
 ehk ta ei tagasta neid koordinaate prgorammi. Seega lisasin programmile juurde 
