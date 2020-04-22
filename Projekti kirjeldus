@@ -2,6 +2,11 @@ Päikesetõusu ja -loojangu arvutamise kalkulaator
 
 Tööks kulunud aeg: ca 24h
 
+Programmi kirjutamiseks kasutasin tarkvara nimega Thonny, mis oli minu poolt natuke halb valik.
+Nimelt ei ole Thonnyl automaatseid korrektuure ja automaatseid sõnade ja käskude lõpetamisi, seega võtis iga
+käsu käsitsi välja kirjutamine ka päris ohtralt aega ära. Thonny sai valitud just sellepärast, et see oli mul juba
+programmeerimise kursusest arvutis olemas.
+
 Jäin jänni kaardil koordinaatide määramisega.
 Nimelt leidsin mooduse, kuidas luua offline interaktiivne kaart, mis annab
 kaardile vajutades koordinaadid, kuid kahjuks on tegemist nö void tüübiga,
@@ -35,7 +40,7 @@ laiuskraad
 pikkuskraad
 kuupäev.
 
-Laius- ja pikkuskraad sisesta kuju nt. 8.5333
+Laius- ja pikkuskraad sisesta kujul nt. 8.5333
 
 Kuupäev sisesta kujul yyyy.MM.dd (nt. 2020.02.20)
 
